@@ -6,7 +6,7 @@ const CONFIG = {
     liffId: 'YOUR_LIFF_ID_HERE',
     
     // Google Apps Script Web App URL
-    scriptUrl: 'YOUR_SCRIPT_URL_HERE',
+    scriptUrl: 'https://script.google.com/macros/s/AKfycbzF6GIVrQ5ORQ0BR6b_tx-grQBYFl19Mj3XxVr35VezPfBBWTnZpFScUI9bDAPKtLsMKQ/exec',
     
     // Google Maps API Key (ถ้ามี - ไม่จำเป็นสำหรับการคำนวณระยะทางแบบ Haversine)
     googleMapsKey: '',
